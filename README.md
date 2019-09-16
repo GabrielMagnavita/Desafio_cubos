@@ -1,2 +1,2 @@
 # Desafio_cubos
-Para executar o site basta clicar no arquivo index.html
+Para executar o WebApp basta clicar no arquivo index.html
