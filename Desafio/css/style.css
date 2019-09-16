@@ -1,0 +1,78 @@
+body{
+  background-color: rgb(0, 0, 0);
+}
+
+
+
+
+#movies img, #movie img{
+  width: 10%;
+  
+}
+
+@media(min-width:960px){
+  #movies .col-md-3 .well{
+    height: 390px;
+    
+    
+  }
+
+  #movies .col-md-3 img{
+    height: 240px;
+    
+  }
+
+
+  .navbar-brand{
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    display: block;
+  }
+
+  .form-control{
+    text-align: center;
+    display: block;
+    width: 100%;
+    
+  }
+
+  h3{
+  font-family: 'Abel', sans-serif;
+  color: white;
+  
+}
+  p{
+    font-family: 'Abel', sans-serif;
+    color: white;
+  }
+
+
+  .btn {
+    font-family: 'Lato', sans-serif;
+    color: white;
+  }
+
+  h5{
+    color: white;
+   ;
+     
+  }
+
+  .col-md-8{
+    color: white;
+  }
+
+  h4{
+    color: white;
+  }
+
+ 
+
+  .col-md-3{
+    display: block;
+  }
+
+}
+
